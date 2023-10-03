@@ -1,4 +1,4 @@
-def generate(self, numRows):
+def generate(numRows):
         res = [[1]]
         
         for i in range(1,numRows):
